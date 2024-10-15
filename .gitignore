@@ -1,0 +1,9 @@
+.env
+knowledge_base
+DataBase
+docstore.json
+faiss_index.idx
+index_to_docstore_id.json
+loadvectore.ipynb
+vectorstore.ipynb
+.venv
